@@ -17,4 +17,8 @@ Preparing to apply for a master’s degree
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+<div>
+  <img src="https://i.imgur.com/ntUhSON.jpg" alt="meme">
+</div>
+
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pelly0524) -->
