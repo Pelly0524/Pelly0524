@@ -21,4 +21,4 @@ Preparing to apply for a master’s degree
   <img src="https://i.imgur.com/ntUhSON.jpg" alt="meme">
 </div>
 
-<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pelly0524) -->
+ ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pelly0524)
