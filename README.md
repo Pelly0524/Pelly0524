@@ -1,8 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, here is an backend engineer on the learning journey.</h1>
 
-Recently studying AI and blockchain
-
-Preparing to apply for a master’s degree
+Hi, my name is Pelly. I am a Software Developer with over three years of experience in backend development, specializing in fintech, LLM applications, and blockchain technologies.
 
 <h3>My Skill Tree</h3>
 <p>
